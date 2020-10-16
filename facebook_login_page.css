@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: #3b5998;
+    height:80px;
+    border-bottom: 1px solid #133783;
+}
+.header{
+    width:992px;
+    margin:0 auto;
+    color: white;
+}
+.face{
+    padding-top: 21px;
+    /*padding-bottom: 10px;*/
+    padding-right: 400px;
+    font-family: "Segoe UI";
+    font-size: 32px;
+    float: left;
+}.mail{
+    margin-right:20px ;
+    padding-top: 20px;
+     float: left;
+}
+.mail input[type="text"] {
+    height: 20px;
+    width: 150px;
+    border: 1px solid #1d2a5b;
+}
+.pass{
+    margin-right:20px ;
+    padding-top: 20px;
+    float: left;
+}
+.pass input[type="text"] {
+    height: 20px;
+    width: 150px;
+    border: 1px solid #1d2a5b;
+}
+.pass a{
+    color: #8fb1d8;
+    text-decoration: none;
+}
+.login{
+    padding-top: 38px;
+    float: left;
+}
+.login input[type="submit"]{
+    color: white;
+    background: #4267b2;
+    border: 1px solid #29487d;
+    border-radius: 2px;
+    height:23px;
+    width: 50px;
+}
+.clearfix{
+     clear: both;
+ }
+.text{
+    color: #12406a;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: "Segoe UI";
+}
+.ftext{
+    margin-top: 28px;
+    margin-left: 140px;
+}
+.main-block{
+    display: flex;
+}
+.side-main{
+    margin-left: 80px;
+}
+.ask{
+    height: 15px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.gend{
+    display: flex;
+
+}
+.gender{
+    margin-right: 12px;
+    font-size: 20px;
+    margin-bottom: 11px;
+}
+.upper{
+    font-family: "Segoe UI", serif;
+    color: #2d2b2b;
+}
+.create{
+    font-size: 35px;
+    margin-bottom: 12px;
+    margin-top: 10px;
+ }
+.upper-para{
+    font-size: 18px;
+    font-weight: bold;
+    color: #322b2b;
+    font-family: "Segoe UI", serif;
+    margin-bottom: 15px;
+}
+.bar input[type="text"]{
+    margin-bottom: 8px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #bbcbe2;
+    /*margin-top: 20px;*/
+}
+.bar input[type="password"]{
+    padding: 10px;
+    margin-bottom: 7px;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 95%;
+    border: 1px solid #bbcbe2;
+}
+.bige{
+    color: #7d7777;
+    font-size: 18px;
+    margin-bottom: 2px;
+}
+#day{
+    height: 28px;
+    width: 60px;
+    margin-bottom: 10px;
+ }
+.year{
+    height: 28px;
+    width: 60px;
+    margin-bottom: 10px;
+ }
+.month{
+    height: 28px;
+    width: 80px;
+    margin-bottom: 10px;
+}
+#stext{
+    font-size: 13px;
+    color: #766464;
+
+    margin-bottom: 18px;
+}
+#stext a {
+    text-decoration: none;
+    color: #1d4d99;
+}
+#ltext{
+    font-size: 17px;
+    color: #766464;
+    margin-top: 20px;
+}
+#ltext a {
+    text-decoration: none;
+    color: #1c4e9e;
+}
+
+.main-block{
+    background: linear-gradient(#fff,#d9ddab);
+    overflow: hidden;
+}
+.buttonl input[type="submit"]{
+    padding: 5px 50px;
+    background: linear-gradient(#53b02c, #306720);
+    border: 1px solid #3b6e22;
+    border-radius: 5px;
+    margin-bottom: 6px;
+}
+.buttonl input[type="submit"]{
+    font-size: 18px;
+    color: white;
+    font-family: "Segoe UI";
+    font-weight: bold;
+}
+footer{
+	text-align: center;
+    /*vertical-align: bottom;*/
+    bottom: 0px;
+}
+/*
+Created by Rinika Paul
+for any query: rinikapaul84@gmail.com
+*/
